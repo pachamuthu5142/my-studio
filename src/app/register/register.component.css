@@ -1,0 +1,245 @@
+body{
+    height: 100vh;
+    background-color: #191919;
+    background-image: url('/assets/img/2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+.card
+{
+    background-color: #101010;
+    box-shadow: gray 0px 6px 12px -2px,rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    /* box-shadow: rgba(249, 0, 77, 1) 0px 6px 12px -2px,rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; */
+    margin-top: 40px;
+    background-image: url('/assets/img/2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+h1
+{
+    text-align: center;
+    color: #f9004d;
+    font-weight: 500;
+}
+label{
+    color: #fff;
+}
+.form-check-label
+{
+    color:#007bff;
+}
+
+.btn-success
+{
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    outline: none;
+   /* font-family: 'Edu SA Beginner', cursive;
+font-family: 'Roboto', sans-serif;
+}
+body
+{
+    height: 100vh;
+    width: 100%;
+    background-color: #191919;
+    
+}
+
+.container
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+    background:#191919;
+    width: 350px;
+    height: 90%;
+    padding: 30px;
+    box-shadow: rgba(100, 100, 143, 0.75) 0px 6px 12px -2px,rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}
+
+.container .text
+{
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+    color: #f9004d;
+}
+.container form
+{
+    margin-top: -20px;
+}
+
+.container form .data{
+    height: 35px;
+    width: 100%;
+    margin: 40px 0;
+ 
+    
+}
+ 
+form .data label
+{
+    font-size: 18px;
+    color: #f9004d;
+}
+
+form .data input{
+    height: 100%;
+    width: 100%;
+    padding-left: 10px;
+    font-size: 17px;
+    border: 1px solid silver;
+    border: 0px;
+
+
+}
+
+form.data input:focus{
+    border-color: #f9004d;
+    border-bottom-width: 2px;
+}
+
+form .forget-pass{
+    margin-top: -8px;
+}
+form .forget-pass a{
+    color: #5199e4;
+    text-decoration: none;
+}
+
+form .forget-pass a:hover
+{
+    text-decoration: underline;
+}
+form.btn
+{
+    margin: 30px  0;
+    height: 45px;
+    width: 100%;
+}
+
+form .btn button{
+    height: 40px;
+    width: 100%;
+    background: none;
+    border:none;
+    color: #fff;
+    background: #f9004d;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+form .singup-link{
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
+form .singup-link a{
+    color: #5199e4;
+    text-decoration: none;
+}
+form .singup-link a:hover{
+    text-decoration: underline;
+}*/

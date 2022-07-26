@@ -1,0 +1,94 @@
+
+
+body {
+/* background-color: #191919; */
+background-image: url('/assets/img/2.jpg');
+height: 850px;
+width: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;  
+}
+hr{
+	color: #f9004d;
+}
+
+.mobile {
+	color: hotpink;
+	font-weight: bold;
+}
+
+.mail {
+	text-align: right;
+	color: dodgerblue;
+	font-weight: bold;
+}
+
+.mail span {
+	color: cyan;
+	font-weight: bold;
+}
+
+.row {
+	justify-content: space-between;
+}
+
+.card {
+	background-color: #222222;
+	box-shadow: rgba(249, 0, 77, 1) 0px 6px 12px -2px,rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+
+label {
+	color: #f9004d;
+	font-weight: 500;
+}
+
+.btn-funky-moon
+{
+	background: #f9004d;
+	/* background: -webkit-linear-gradient(145deg,#FDB99B,#CF8BF3,#f9004d);
+	background: linear-gradient(145deg,#FDB99B,#CF8BF3,#f9004d); */
+	color: #fff;
+	border-radius:50px;
+	padding: 5px 10px 5px 10px;
+	font-weight: 600;
+	border: none;
+}
+.contact-me {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.contact-me p {
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+
+.contact-me .button-two {
+	background-color: #f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s;
+}
+
+.fa-phone {
+	background-color: #f9004d;
+}
+
+.contact-me .button-two:hover {
+	background-color: transparent;
+	border: 2px solid #f9004d;
+	cursor: pointer;
+}
